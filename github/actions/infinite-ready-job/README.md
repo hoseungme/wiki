@@ -12,4 +12,4 @@ Runner를 설정하는 옵션은 [jobs.job.runs-on](https://docs.github.com/ko/a
 
 따라서 그냥 최신 우분투 버전을 따라가도록 `ubuntu-latest`로 바꿔주니 무한 대기 문제가 해결되었다.
 
-다만, 사실 과거의 나는 원래 `ubuntu-latest`를 사용하고 있었으나, 웹팩 문제 때문에 `ubuntu-18.04`로 버전을 고정해서 사용하게 된 것이었는데, 그것은 [여기](../webpack-error-0308010c/)서 설명한다.
+다만, 사실 과거의 나는 원래 `ubuntu-latest`를 사용하고 있었으나, 웹팩 문제 때문에 `ubuntu-18.04`로 버전을 고정해서 사용하게 된 것이었는데, 그것은 [여기](../webpack-error-0308010c/README.md)서 설명한다.

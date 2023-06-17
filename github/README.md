@@ -1,3 +1,3 @@
 # 깃허브
 
-- [Actions](./actions/)
+- [Actions](./actions/README.md)
