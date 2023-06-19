@@ -1,6 +1,6 @@
 # Responsive Image: srcset, sizes
 
-DPR을 다룬 문서에 정리했듯이, 디바이스 해상도에 맞춰 올바른 크기의 이미지가 선택될 수 있도록 해야하는데, HTML 레벨에서 `img`의 `srcset`, `sizes` 속성을 사용해 쉽게 할 수 있다.
+[DPR을 다룬 문서](../../../browser/device-pixel-ratio/README.md)에 정리했듯이, 디바이스 해상도에 맞춰 올바른 크기의 이미지가 선택될 수 있도록 해야하는데, HTML 레벨에서 `img`의 `srcset`, `sizes` 속성을 사용해 쉽게 할 수 있다.
 
 `srcset`은 이미지와 그 이미지의 실제 가로 크기의 쌍을 나열하고, `sizes`는 `img`의 가로 크기를 나열하는데, Media Query로 조건을 걸어 상황에 따라 다른 크기를 갖게 할 수 있다.
 
