@@ -16,7 +16,7 @@ import styled from "@emotion/styled";
 styled.default.div``;
 ```
 
-그 이유는 [가짜 import/export 문서](../fake-import-export/README.md)와 연관되어 있었다. `@emotion/styled` 에서는 `styled` 객체를 `default export` 하고 있었는데, 문제는 CJS에서 `default export`는 없는 스펙이라는 것이다.
+그 이유는 [가짜 import/export 문서](../fake-import-export/ko.md)와 연관되어 있었다. `@emotion/styled` 에서는 `styled` 객체를 `default export` 하고 있었는데, 문제는 CJS에서 `default export`는 없는 스펙이라는 것이다.
 
 따라서 `default export`는 아래와 같이 `default`로 named export되는 것으로 트랜스파일된다.
 

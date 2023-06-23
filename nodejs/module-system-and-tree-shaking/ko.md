@@ -1,6 +1,6 @@
 # 모듈 시스템과 트리 쉐이킹
 
-[이 문서](../module-system/README.md)에 CJS, ESM에 대해 정리했는데, CJS와 ESM은 프론트엔드의 트리 쉐이킹과도 밀접한 관련이 있다.
+[이 문서](../module-system/ko.md)에 CJS, ESM에 대해 정리했는데, CJS와 ESM은 프론트엔드의 트리 쉐이킹과도 밀접한 관련이 있다.
 
 결론부터 말하면 CJS는 트리 쉐이킹이 어렵고, ESM은 트리 쉐이킹이 쉽다.
 
