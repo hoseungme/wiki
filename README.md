@@ -1,5 +1,18 @@
 # wiki
 
+## 최근 추가한 문서
+
+- 2023-06-24: [모바일 웹에서 클릭 이벤트를 유지하면서 롱 터치 이벤트 구현하기](./front-end/browser/implement-long-touch-event-with-click-event-on-mobile-web/ko.md)
+- 2023-06-23: [Safari에서 flex-direction: column-reverse를 사용할 경우 생기는 스크롤 및 렌더링 이슈](./front-end/browser/safari-flex-direction-column-reverse-scroll-and-rendering-issue/ko.md)
+- 2023-06-20: [ESM에서 @emotion/styled를 import하면 생기는 현상](./typescript/esm-emotion-styled-import/ko.md)
+- 2023-06-20: [가짜 import/export](./typescript/fake-import-export/ko.md)
+- 2023-06-20: [모듈 시스템과 트리 쉐이킹](./nodejs/module-system-and-tree-shaking/ko.md)
+- 2023-06-20: [모듈 시스템](./nodejs/module-system/ko.md)
+- 2023-06-20: [Responsive Image: srcset, sizes](./front-end/html/img/responsive-image/ko.md)
+- 2023-06-20: [고해상도 기기의 렌더링 방식: Device Pixel Ratio](./front-end/browser/device-pixel-ratio/ko.md)
+- 2023-06-19: [위치 권한: 정확한 위치](./ios/precise-location/ko.md)
+- 2023-06-19: [Cache Policy](./back-end/aws/cloudfront/cache-policy/ko.md)
+
 ## 카테고리
 
 - [프론트엔드](./front-end/ko.md)
