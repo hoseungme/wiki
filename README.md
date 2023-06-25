@@ -2,7 +2,7 @@
 
 ## 최근 추가한 문서
 
-- 2023-06-24: [모바일 웹에서 클릭 이벤트를 유지하면서 롱 터치 이벤트 구현하기](./front-end/browser/implement-long-touch-event-with-click-event-on-mobile-web/ko.md)
+- 2023-06-24: [모바일 웹에서 클릭 이벤트를 유지하면서 롱 프레스 이벤트 구현하기](./front-end/browser/implement-long-press-event-with-click-event-on-mobile-web/ko.md)
 - 2023-06-23: [Safari에서 flex-direction: column-reverse를 사용할 경우 생기는 스크롤 및 렌더링 이슈](./front-end/browser/safari-flex-direction-column-reverse-scroll-and-rendering-issue/ko.md)
 - 2023-06-20: [ESM에서 @emotion/styled를 import하면 생기는 현상](./typescript/esm-emotion-styled-import/ko.md)
 - 2023-06-20: [가짜 import/export](./typescript/fake-import-export/ko.md)
