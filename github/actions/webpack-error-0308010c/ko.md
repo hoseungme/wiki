@@ -1,6 +1,6 @@
 # 웹팩 빌드 Error: error:0308010C:digital envelope routines::unsupported
 
-Github Actions에서 Workflow Runner를 `ubuntu-latest`로 설정하고서 잘 쓰고 있던 중, 갑자기 웹팩 빌드 단계에서 `Error: error:0308010C:digital envelope routines::unsupported` 에러가 발생했었다. 일단 [여기](../../../front-end/webpack/build-error-0308010c/ko.md)서 정리했듯이 해당 에러는 Node.js 버전이 16을 넘어갈 경우 발생하는 에러이다.
+Github Actions에서 Workflow Runner를 `ubuntu-latest`로 설정하고서 잘 쓰고 있던 중, 갑자기 웹팩 빌드 단계에서 `Error: error:0308010C:digital envelope routines::unsupported` 에러가 발생했었다. 일단 [여기](../../../bundler/webpack/build-error-0308010c/ko.md)서 정리했듯이 해당 에러는 Node.js 버전이 16을 넘어갈 경우 발생하는 에러이다.
 
 우분투에는 Node.js가 기본으로 내장되어있다. 이때 `ubuntu-latest`가 바라보는 우분투 버전은 (latest니까 당연히)계속 바뀔텐데, 바뀐 우분투 버전에 내장된 Node.js의 버전이 16을 초과하게 되어 영향이 온 것으로 보였다.
 

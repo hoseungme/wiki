@@ -2,5 +2,4 @@
 
 - [HTML](./html/ko.md)
 - [브라우저](./browser/ko.md)
-- [웹팩](./webpack/ko.md)
 - [UI/UX](./uiux/ko.md)
