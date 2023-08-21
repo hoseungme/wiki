@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2023-08-22: [transform: rotate() + filter: blur() 퍼포먼스 개선 (feat. 레이어, 합성)](./front-end/css/transform-rotate-filter-blur-performance/ko.md)
 - 2023-07-27: [Canvas 요소 합성하기](./front-end/html/canvas/canvas-shapes-composition/ko.md)
 - 2023-07-20: [package.json의 exports 사용시 하위 호환성 지원](./typescript/package-json-exports-backward-compatiblity/ko.md)
 - 2023-07-18: [타압스크립트 번들링시 발생하는 Error: "[name] is not exported by [module]" 에러](./bundler/rollup/typescript-name-is-not-exported-by-module/ko.md)
@@ -12,12 +13,12 @@
 - 2023-06-27: [React에서 Parallax Scroll 컴포넌트 만들기](./front-end/uiux/implement-parallax-scroll-component-in-react/ko.md)
 - 2023-06-25: [터치 제스처 용어 정리](./front-end/uiux/touch-gesture-terms/ko.md)
 - 2023-06-24: [모바일 웹에서 클릭 이벤트를 유지하면서 롱 프레스 이벤트 구현하기](./front-end/browser/implement-long-press-event-with-click-event-on-mobile-web/ko.md)
-- 2023-06-23: [Safari에서 flex-direction: column-reverse를 사용할 경우 생기는 스크롤 및 렌더링 이슈](./front-end/browser/safari-flex-direction-column-reverse-scroll-and-rendering-issue/ko.md)
 
 ## 카테고리
 
 - [프론트엔드](./front-end/ko.md)
   - [HTML](./front-end/html/ko.md)
+  - [CSS](./front-end/css/ko.md)
   - [브라우저](./front-end/browser/ko.md)
   - [UI/UX](./front-end/uiux/ko.md)
   - [리액트](./front-end/react/ko.md)
