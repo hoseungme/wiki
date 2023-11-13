@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2023-11-14: [CloudFront Functions 리다이렉션 구성 후기](./back-end/aws/cloudfront/cloudfront-functions-redirection/ko.md)
 - 2023-10-21: [hover Media Query](./front-end/css/hover-media-query/ko.md)
 - 2023-09-17: [Next.js가 서버 사이드에서 모듈을 읽는 방식](./front-end/nextjs/server-side-module-resolution/ko.md)
 - 2023-08-22: [transform: rotate() + filter: blur() 퍼포먼스 개선 (feat. 레이어, 합성)](./front-end/css/improve-transform-rotate-filter-blur-performance/ko.md)
@@ -12,7 +13,6 @@
 - 2023-07-14: [iOS에서 클립보드 복사가 안되는 이슈](./front-end/browser/clipboard-copy-not-working-ios/ko.md)
 - 2023-06-28: [React Query를 Next.js에서 dehydrate()와 사용할 때 생기는 Missing queryFn 이슈](./front-end/react/react-query-dehydrate-nextjs-missing-queryfn/ko.md)
 - 2023-06-28: [React에서 숫자가 올라가고 내려가는 텍스트 애니메이션 컴포넌트 구현하기](./front-end/uiux/implement-rolling-number-component-in-react/ko.md)
-- 2023-06-27: [React에서 Parallax Scroll 컴포넌트 만들기](./front-end/uiux/implement-parallax-scroll-component-in-react/ko.md)
 
 ## 카테고리
 
