@@ -3,7 +3,7 @@
 ## 최근 추가한 문서
 
 - 2024-03-28: [Forward Proxy와 Reverse Proxy](./network/forward-proxy-and-reverse-proxy/ko.md)
-- 2023-03-03: [Void Elements](./front-end/html/void-elements/ko.md)
+- 2024-03-03: [Void Elements](./front-end/html/void-elements/ko.md)
 - 2023-11-14: [CloudFront Functions 리다이렉션 구성 후기](./back-end/aws/cloudfront/cloudfront-functions-redirection/ko.md)
 - 2023-10-21: [hover Media Query](./front-end/css/hover-media-query/ko.md)
 - 2023-09-17: [Next.js가 서버 사이드에서 모듈을 읽는 방식](./front-end/nextjs/server-side-module-resolution/ko.md)
