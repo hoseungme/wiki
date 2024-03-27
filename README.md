@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2024-03-28: [HTTP 캐시의 동작](./network/http/how-http-cache-works/ko.md)
 - 2024-03-28: [Forward Proxy와 Reverse Proxy](./network/forward-proxy-and-reverse-proxy/ko.md)
 - 2024-03-03: [Void Elements](./front-end/html/void-elements/ko.md)
 - 2023-11-14: [CloudFront Functions 리다이렉션 구성 후기](./back-end/aws/cloudfront/cloudfront-functions-redirection/ko.md)
