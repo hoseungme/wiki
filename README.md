@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2024-03-28: [Forward Proxy와 Reverse Proxy](./network/forward-proxy-and-reverse-proxy/ko.md)
 - 2023-03-03: [Void Elements](./front-end/html/void-elements/ko.md)
 - 2023-11-14: [CloudFront Functions 리다이렉션 구성 후기](./back-end/aws/cloudfront/cloudfront-functions-redirection/ko.md)
 - 2023-10-21: [hover Media Query](./front-end/css/hover-media-query/ko.md)
@@ -33,3 +34,5 @@
 - [Node.js](./nodejs/ko.md)
 - [깃허브](./github/ko.md)
   - [Actions](./github/actions/ko.md)
+- [네트워크](./network/ko.md)
+  - [HTTP](./network/http/ko.md)
