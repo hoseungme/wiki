@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2024-03-30: [CloudFront OAC](./back-end/aws/cloudfront/cloudfront-oac/ko.md)
 - 2024-03-28: [HTTP 캐시의 동작](./network/http/how-http-cache-works/ko.md)
 - 2024-03-28: [Forward Proxy와 Reverse Proxy](./network/forward-proxy-and-reverse-proxy/ko.md)
 - 2024-03-03: [Void Elements](./front-end/html/void-elements/ko.md)
@@ -13,8 +14,6 @@
 - 2023-07-20: [package.json의 exports 사용시 하위 호환성 지원](./typescript/package-json-exports-backward-compatiblity/ko.md)
 - 2023-07-18: [타압스크립트 번들링시 발생하는 Error: "[name] is not exported by [module]" 에러](./bundler/rollup/typescript-name-is-not-exported-by-module/ko.md)
 - 2023-07-18: [Element의 크기 변경을 감지하기: ResizeObserver](./front-end/browser/resize-observer/ko.md)
-- 2023-07-14: [iOS에서 클립보드 복사가 안되는 이슈](./front-end/browser/clipboard-copy-not-working-ios/ko.md)
-- 2023-06-28: [React Query를 Next.js에서 dehydrate()와 사용할 때 생기는 Missing queryFn 이슈](./front-end/react/react-query-dehydrate-nextjs-missing-queryfn/ko.md)
 
 ## 카테고리
 
