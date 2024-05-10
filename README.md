@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2024-05-10: [Scoped Animation .offset 버그](./swiftui/scoped-animation-offset-bug/ko.md)
 - 2024-03-30: [CloudFront OAC](./back-end/aws/cloudfront/cloudfront-oac/ko.md)
 - 2024-03-28: [HTTP 캐시의 동작](./network/http/how-http-cache-works/ko.md)
 - 2024-03-28: [Forward Proxy와 Reverse Proxy](./network/forward-proxy-and-reverse-proxy/ko.md)
@@ -30,6 +31,7 @@
   - [Webpack](./bundler/webpack/ko.md)
   - [Rollup](./bundler/rollup/ko.md)
 - [iOS](./ios/ko.md)
+- [SwiftUI](./swiftui/ko.md)
 - [타입스크립트](./typescript/ko.md)
 - [Node.js](./nodejs/ko.md)
 - [깃허브](./github/ko.md)
