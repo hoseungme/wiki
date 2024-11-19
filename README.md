@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2024-11-20: [site.webmanifest 파일](./front-end/pwa/what-is-webmanifest/ko.md)
 - 2024-05-10: [Scoped Animation .offset 버그](./swiftui/scoped-animation-offset-bug/ko.md)
 - 2024-03-30: [CloudFront OAC](./back-end/aws/cloudfront/cloudfront-oac/ko.md)
 - 2024-03-28: [HTTP 캐시의 동작](./network/http/how-http-cache-works/ko.md)
@@ -14,7 +15,6 @@
 - 2023-07-27: [Canvas 요소 합성하기](./front-end/html/canvas/canvas-shapes-composition/ko.md)
 - 2023-07-20: [package.json의 exports 사용시 하위 호환성 지원](./typescript/package-json-exports-backward-compatiblity/ko.md)
 - 2023-07-18: [타압스크립트 번들링시 발생하는 Error: "[name] is not exported by [module]" 에러](./bundler/rollup/typescript-name-is-not-exported-by-module/ko.md)
-- 2023-07-18: [Element의 크기 변경을 감지하기: ResizeObserver](./front-end/browser/resize-observer/ko.md)
 
 ## 카테고리
 
@@ -25,6 +25,7 @@
   - [UI/UX](./front-end/uiux/ko.md)
   - [리액트](./front-end/react/ko.md)
   - [Next.js](./front-end/nextjs/ko.md)
+  - [PWA](./front-end/pwa/ko.md)
 - [백엔드](./back-end/ko.md)
   - [AWS](./back-end/aws/ko.md)
 - [번들러](./bundler/ko.md)
