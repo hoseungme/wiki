@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2025-01-05: [OpenAI assistant message를 임의로 수정하면 생기는 문제](./llm/openai/edit-assistant-message-arbitrarily/ko.md)
 - 2025-01-05: [Custom view modifier memory leak](./swiftui/custom-view-modifier-memory-leak/ko.md)
 - 2024-11-20: [site.webmanifest 파일](./front-end/pwa/what-is-webmanifest/ko.md)
 - 2024-05-10: [Scoped Animation .offset 버그](./swiftui/scoped-animation-offset-bug/ko.md)
@@ -14,7 +15,6 @@
 - 2023-09-17: [Next.js가 서버 사이드에서 모듈을 읽는 방식](./front-end/nextjs/server-side-module-resolution/ko.md)
 - 2023-08-22: [transform: rotate() + filter: blur() 퍼포먼스 개선 (feat. 레이어, 합성)](./front-end/css/improve-transform-rotate-filter-blur-performance/ko.md)
 - 2023-07-27: [Canvas 요소 합성하기](./front-end/html/canvas/canvas-shapes-composition/ko.md)
-- 2023-07-20: [package.json의 exports 사용시 하위 호환성 지원](./typescript/package-json-exports-backward-compatiblity/ko.md)
 
 ## 카테고리
 
@@ -35,6 +35,7 @@
 - [SwiftUI](./swiftui/ko.md)
 - [타입스크립트](./typescript/ko.md)
 - [Node.js](./nodejs/ko.md)
+- [LLM](./llm/ko.md)
 - [깃허브](./github/ko.md)
   - [Actions](./github/actions/ko.md)
 - [네트워크](./network/ko.md)
