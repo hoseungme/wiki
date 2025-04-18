@@ -2,7 +2,7 @@
 
 ## 최근 추가한 문서
 
-- 2025-01-05: [OpenAI assistant message를 임의로 수정하면 생기는 문제](./llm/openai/edit-assistant-message-arbitrarily/ko.md)
+- 2025-01-05: [OpenAI assistant message를 임의로 수정하면 생기는 문제](./llm/edit-assistant-message-arbitrarily/ko.md)
 - 2025-01-05: [Custom view modifier memory leak](./swiftui/custom-view-modifier-memory-leak/ko.md)
 - 2024-11-20: [site.webmanifest 파일](./front-end/pwa/what-is-webmanifest/ko.md)
 - 2024-05-10: [Scoped Animation .offset 버그](./swiftui/scoped-animation-offset-bug/ko.md)
