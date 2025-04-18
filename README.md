@@ -2,6 +2,7 @@
 
 ## 최근 추가한 문서
 
+- 2025-04-18: [ProcessInfo().hostName의 Local Network Access](./swift/process-info-host-name-local-network-access/ko.md)
 - 2025-01-05: [OpenAI assistant message를 임의로 수정하면 생기는 문제](./llm/edit-assistant-message-arbitrarily/ko.md)
 - 2025-01-05: [Custom view modifier memory leak](./swiftui/custom-view-modifier-memory-leak/ko.md)
 - 2024-11-20: [site.webmanifest 파일](./front-end/pwa/what-is-webmanifest/ko.md)
@@ -14,7 +15,6 @@
 - 2023-10-21: [hover Media Query](./front-end/css/hover-media-query/ko.md)
 - 2023-09-17: [Next.js가 서버 사이드에서 모듈을 읽는 방식](./front-end/nextjs/server-side-module-resolution/ko.md)
 - 2023-08-22: [transform: rotate() + filter: blur() 퍼포먼스 개선 (feat. 레이어, 합성)](./front-end/css/improve-transform-rotate-filter-blur-performance/ko.md)
-- 2023-07-27: [Canvas 요소 합성하기](./front-end/html/canvas/canvas-shapes-composition/ko.md)
 
 ## 카테고리
 
